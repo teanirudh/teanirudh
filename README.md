@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @teanirudh
-- 👀 I’m interested in exploring various domains of Computer Science
-- 🌱 I’m currently pursuing B.E. in Computer Science and Engineering
 - 📫 Reach me: teanirudh@gmail.com | www.linkedin.com/in/teanirudh
