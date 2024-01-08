@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @teanirudh
-- 💼 Software Engineer
-- ✉️ teanirudh@gmail.com
-- 💻 www.linkedin.com/in/teanirudh
+#### 💼 Software Engineer
+
+#### ✉️ teanirudh@gmail.com
+
+#### 💻 www.linkedin.com/in/teanirudh
